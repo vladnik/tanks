@@ -2,7 +2,7 @@
   "name": "tanks",
   "private": true,
   "dependencies": {
-    "jquery": "~1.11.0"
+    "cocos2d-html5": "latest"
   },
   "devDependencies": {}
 }
